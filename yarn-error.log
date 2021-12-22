@@ -1,0 +1,31 @@
+Arguments: 
+  /Users/matthewoliver/.nvm/versions/node/v16.13.0/bin/node /usr/local/Cellar/yarn/1.22.10/libexec/bin/yarn.js add --dev react react-dom @types/react typescript
+
+PATH: 
+  /usr/local/Caskroom/miniforge/base/bin:/usr/local/Caskroom/miniforge/base/condabin:/usr/local/share/python:/usr/local/share/python:/Users/matthewoliver/.nvm/versions/node/v16.13.0/bin:/Users/matthewoliver/.pyenv/shims:/Users/matthewoliver/.pyenv/bin:/Users/matthewoliver/anaconda3/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  16.13.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: ENOTDIR: not a directory, scandir '/Users/matthewoliver/Desktop/code-certs/styled-system/basic-components-lib/node_modules'
+
+npm manifest: 
+  {
+    "name": "basic-components-lib",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
